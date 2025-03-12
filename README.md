@@ -13,7 +13,7 @@ This is a Streamlit-based web application that allows users to ask questions bas
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/akshay7521/QnAWithWebAndVideoCrawling.git
+    git clone https://github.com/akshay7521/QnAWithWebAndVideoCrawl.git
     cd QnAWithWebAndVideoCrawling
     ```
 
